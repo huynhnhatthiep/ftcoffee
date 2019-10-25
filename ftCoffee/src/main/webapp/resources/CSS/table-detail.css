@@ -1,0 +1,44 @@
+.button-style-three {
+	border-color: #ddd;
+    padding: 20px;
+    background-color: #5f6565;
+}
+.button-style-three .btn-custon-rounded-three {
+	width: 200px;
+	border-radius: 20px;
+	margin-right: 10px;
+
+}
+.btn-insert {
+	background-color: #4beba1;
+	color: white;
+}
+.menu-title {
+	background-color: #5f6565;
+}
+.menu-title h1{
+	color: white;
+}
+.menu-title .main-sparkline13-hd {
+	padding: 10px;
+}
+.button-style-three-calculate .btn-custon-rounded-three {
+	width: 100%;
+	margin-bottom: 10px;
+}
+.data-table-area .ds-setting {
+	border: none;
+	color: #fff;
+	padding: 5px 15px;
+	font-size: 15px;
+	background: #eb4b4b;
+	border-radius: 3px;
+}
+.data-table-area .fn-setting {
+	border: none;
+	color: #fff;
+	padding: 5px 15px;
+	font-size: 15px;
+	background: #1bc618;
+	border-radius: 3px;
+}
